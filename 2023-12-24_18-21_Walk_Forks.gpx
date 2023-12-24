@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd 4.5.10" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>favorites-Развилкт</name>
+    <time>2023-12-24T19:16:38Z</time>
+  </metadata>
+  <wpt lat="55.994034" lon="37.1678147">
+    <ele>206.8</ele>
+    <time>2023-12-24T15:28:25Z</time>
+    <name>1</name>
+    <type>Развилкт</type>
+    <extensions>
+      <osmand:address>Вблизи Алабушевская улица, Силино</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#1010a0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.0041236" lon="37.1770751">
+    <ele>215.5</ele>
+    <time>2023-12-24T16:13:00Z</time>
+    <name>10 развилка маленькая</name>
+    <type>Развилкт</type>
+    <extensions>
+      <osmand:address>Вблизи 2-й Западный проезд, Матушкино</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#1010a0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.0036953" lon="37.1815936">
+    <ele>213</ele>
+    <time>2023-12-24T16:20:39Z</time>
+    <name>11 развилка</name>
+    <type>Развилкт</type>
+    <extensions>
+      <osmand:address>Текущий трек</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#1010a0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.0024003" lon="37.181843">
+    <ele>213</ele>
+    <time>2023-12-24T16:23:27Z</time>
+    <name>12 развилка</name>
+    <type>Развилкт</type>
+    <extensions>
+      <osmand:address>Вблизи 2-й Западный проезд (Матушкино), Зеленоград</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#1010a0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.0006165" lon="37.1781225">
+    <ele>209</ele>
+    <time>2023-12-24T16:35:01Z</time>
+    <name>13 развилка</name>
+    <type>Развилкт</type>
+    <extensions>
+      <osmand:address>Текущий трек</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#1010a0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.0014191" lon="37.1761604">
+    <ele>209</ele>
+    <time>2023-12-24T16:38:47Z</time>
+    <name>14 развилка</name>
+    <type>Развилкт</type>
+    <extensions>
+      <osmand:address>Текущий трек</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#1010a0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.0016583" lon="37.1757777">
+    <ele>209</ele>
+    <time>2023-12-24T16:41:08Z</time>
+    <name>15 развилке</name>
+    <type>Развилкт</type>
+    <extensions>
+      <osmand:address>Текущий трек</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#1010a0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.0025502" lon="37.1741709">
+    <ele>209</ele>
+    <time>2023-12-24T16:45:27Z</time>
+    <name>16</name>
+    <type>Развилкт</type>
+    <extensions>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#1010a0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.002154" lon="37.1731563">
+    <ele>209</ele>
+    <time>2023-12-24T16:47:12Z</time>
+    <name>17</name>
+    <type>Развилкт</type>
+    <extensions>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#1010a0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="55.994758" lon="37.1677115">
+    <ele>207.8</ele>
+    <time>2023-12-24T15:29:38Z</time>
+    <name>2 развилка</name>
+    <type>Развилкт</type>
+    <extensions>
+      <osmand:address>Текущий трек</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#1010a0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="55.9948846" lon="37.1675093">
+    <ele>206.8</ele>
+    <time>2023-12-24T15:31:21Z</time>
+    <name>Развилка 3</name>
+    <type>Развилкт</type>
+    <extensions>
+      <osmand:address>Текущий трек</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#1010a0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="55.9956134" lon="37.166681">
+    <ele>207.2</ele>
+    <time>2023-12-24T15:35:04Z</time>
+    <name>Развилка 5</name>
+    <type>Развилкт</type>
+    <extensions>
+      <osmand:address>Вблизи Алабушевская улица, Силино</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#1010a0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="55.9956847" lon="37.1659347">
+    <ele>207.2</ele>
+    <time>2023-12-24T15:36:11Z</time>
+    <name>Развилка 6</name>
+    <type>Развилкт</type>
+    <extensions>
+      <osmand:address>Вблизи Алабушевская улица, Силино</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#1010a0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="55.9968611" lon="37.1651634">
+    <time>2023-12-24T15:38:19Z</time>
+    <name>Развилка 7</name>
+    <type>Развилкт</type>
+    <extensions>
+      <osmand:address>Вблизи Алабушевская улица, Силино</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#1010a0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="55.9970474" lon="37.1648569">
+    <time>2023-12-24T15:38:59Z</time>
+    <name>Развилка 8</name>
+    <type>Развилкт</type>
+    <extensions>
+      <osmand:address>Вблизи Алабушевская улица, Силино</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#1010a0</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="55.9982562" lon="37.1631913">
+    <ele>206</ele>
+    <time>2023-12-24T15:42:20Z</time>
+    <name>Развилка 9</name>
+    <type>Развилкт</type>
+    <extensions>
+      <osmand:address>Текущий трек</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#1010a0</osmand:color>
+    </extensions>
+  </wpt>
+  <extensions>
+    <osmand:points_groups>
+      <group name="Развилкт" color="#1010a0" icon="special_star" background="circle" />
+    </osmand:points_groups>
+  </extensions>
+</gpx>

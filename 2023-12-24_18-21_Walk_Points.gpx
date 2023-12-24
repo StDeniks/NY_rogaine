@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd 4.5.10" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>favorites-Обекты</name>
+    <time>2023-12-24T19:15:49Z</time>
+  </metadata>
+  <wpt lat="56.001726" lon="37.1757408">
+    <ele>213</ele>
+    <time>2023-12-24T16:42:05Z</time>
+    <name>Большое упавшее дерево</name>
+    <type>Обекты</type>
+    <extensions>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#000001</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.0036348" lon="37.1740888">
+    <ele>219</ele>
+    <time>2023-12-24T16:08:35Z</time>
+    <name>Завал</name>
+    <type>Обекты</type>
+    <extensions>
+      <osmand:address>Текущий трек</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#000001</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="55.9982259" lon="37.1638466">
+    <ele>206</ele>
+    <time>2023-12-24T15:41:37Z</time>
+    <name>Завал справа неюольшой</name>
+    <type>Обекты</type>
+    <extensions>
+      <osmand:address>Вблизи Алабушевская улица, Силино</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#000001</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.0014424" lon="37.1761877">
+    <ele>209</ele>
+    <time>2023-12-24T16:39:29Z</time>
+    <name>Кормушка</name>
+    <type>Обекты</type>
+    <extensions>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#000001</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.0024541" lon="37.1741085">
+    <ele>209</ele>
+    <time>2023-12-24T16:44:58Z</time>
+    <name>Кормушка 2</name>
+    <type>Обекты</type>
+    <extensions>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#000001</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="55.9947927" lon="37.1676456">
+    <ele>207.8</ele>
+    <time>2023-12-24T15:30:28Z</time>
+    <name>Пень довольно большой</name>
+    <type>Обекты</type>
+    <extensions>
+      <osmand:address>Текущий трек</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#000001</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.003933" lon="37.1779697">
+    <ele>215.5</ele>
+    <time>2023-12-24T16:14:36Z</time>
+    <name>Поляна</name>
+    <type>Обекты</type>
+    <extensions>
+      <osmand:address>Вблизи 2-й Западный проезд, Матушкино</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#000001</osmand:color>
+    </extensions>
+  </wpt>
+  <extensions>
+    <osmand:points_groups>
+      <group name="Обекты" color="#000001" icon="special_star" background="circle" />
+    </osmand:points_groups>
+  </extensions>
+</gpx>
